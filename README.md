@@ -1,4 +1,4 @@
-# 📚 PLP Bookstore – MongoDB Assignment (Week 1)
+#  PLP Bookstore – MongoDB Assignment (Week 1)
 
 ##  Objective
 
@@ -7,7 +7,7 @@ The work is based on a `plp_bookstore` database containing a `books` collection.
 
 ---
 
-## 📂 Tasks & Implementations
+##  Tasks & Implementations
 
 ### **Task 1: MongoDB Setup**
 
