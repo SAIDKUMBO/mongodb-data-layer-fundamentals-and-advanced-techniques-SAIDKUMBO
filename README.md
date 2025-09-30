@@ -1,13 +1,13 @@
-# 📚 PLP Bookstore – MongoDB Assignment (Week 1)
+#  PLP Bookstore – MongoDB Assignment (Week 1)
 
-## 🚀 Objective
+##  Objective
 
 This project demonstrates the fundamentals and advanced techniques of MongoDB, including setup, CRUD operations, advanced queries, aggregation pipelines, and indexing.
 The work is based on a `plp_bookstore` database containing a `books` collection.
 
 ---
 
-## 📂 Tasks & Implementations
+##  Tasks & Implementations
 
 ### **Task 1: MongoDB Setup**
 
@@ -107,7 +107,7 @@ db.books.find({ author: "Herman Melville", published_year: 2007 }).explain("exec
 
 ---
 
-## 🧪 Expected Outcome
+##  Expected Outcome
 
 * A functional **`plp_bookstore`** database with structured book documents.
 * CRUD queries to manipulate and retrieve data.
