@@ -27,6 +27,10 @@ db.books.deleteOne({title: "Pride and Prejudice"})
 //Task 3:Complex Queries
 
 //query to find books that are both in stock and published after 2010
+db.books.find({
+  inStock: true,
+  year: { $gt: 2010 }
+})
 
 
 //Use projection to return only the title, author, and price fields in your queries
